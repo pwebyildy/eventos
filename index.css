@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 1%;
+    box-sizing: border-box;
+
+}
+
+body {
+    font-family: "open sans";
+    font-size: 16px;
+    line-height: 1;
+    color: brown;
+
+    background-color: grey;
+}
+
+
+
+
+
+form {
+
+    width: 360%PX;
+    height: 350%Px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+
+.registro{justify-content:column;
+
+
+}
+
+
+input {
+    width: 200%;
+    height: 200px;
+    margin-bottom: 10px;
+    border: 15px solid pink;
+    border-radius: 5px;
+    padding: 0%;
+
+}
+
+
